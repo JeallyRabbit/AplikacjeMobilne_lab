@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Szlak 1",
+    "description": "Szczegóły szlaku dla ID:1"
+  },
+  {
+    "id": 2,
+    "name": "Szlak 2",
+    "description": "Szczegóły szlaku dla ID:2"
+  },
+  {
+    "id": 3,
+    "name": "Szlak 3",
+    "description": "Szczegóły szlaku dla ID:4"
+  },
+  {
+    "id": 4,
+    "name": "Szlak 4",
+    "description": "Szczegóły szlaku dla ID:4"
+  }
+]
